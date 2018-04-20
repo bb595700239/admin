@@ -18,7 +18,7 @@
 
 ## 效果演示
 
-<a onclick="javascript:alert('暂未开放！努力开发中！')">查看demo请戳这里</a> ✨✨
+<a href="http://joubn.com/admin/dist/#/login" target="_blank">查看demo请戳这里</a> ✨✨
 
 ## 技术栈
 
